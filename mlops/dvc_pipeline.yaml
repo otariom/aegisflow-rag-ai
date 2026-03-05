@@ -1,0 +1,9 @@
+stages:
+ingest_documents:
+cmd: python backend/main.py
+deps:
+- backend/services/parser.py
+- backend/core/database.py
+- backend/core/engine.py
+outs:
+- backend/data/internal
