@@ -1,4 +1,4 @@
-# AegisFlow – Private RAG AI for EU AI Act Compliance
+# AegisFlow – AgenticRAG-Legal-Audit-System
 
 AegisFlow is a **local, privacy-first Retrieval Augmented Generation (RAG) system** designed to analyze regulatory documents such as the **EU AI Act** and internal company policies.
 The system retrieves relevant sections from uploaded PDFs and uses a **local LLM** to generate grounded answers.
